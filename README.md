@@ -13,7 +13,7 @@ A python voice assistant that you can ask coronavirus related questions to
 5. Type pip install -r requirements.txt
 
 # How to use
-1. Web scrape worldometers.info using ParseHub
+1. Web scrape worldometers.info using ParseHub or you can use my project and run the program
 2. Edit the code as needed for the information
 3. Run python main.py
 4. To figure out commands say "hey corona help" and the voice assistant will tell you what to do
